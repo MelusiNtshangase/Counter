@@ -20,3 +20,5 @@ counterBtns.forEach((btn) => {
     value.textContent = counter;
   });
 });
+
+console.log("Hello World");
